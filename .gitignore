@@ -8,6 +8,7 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+temporaryNotes.txt
 
 # === Claude Code Local ===
 .claude/settings.local.json
@@ -175,3 +176,8 @@ $RECYCLE.BIN/
 # the project root. Anchored so a reports/ folder elsewhere stays tracked.
 /reports/
 /test-results/
+
+
+## git remote add origin https://github.com/sparkbugx/Game-Studio-with-Claude-Code.git
+  ## git branch -M main
+##  #git push -u origin main
